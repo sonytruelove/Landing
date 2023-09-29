@@ -22,7 +22,7 @@ text-align:right;
   }
 .blockquote{
   border: solid 1px;
-  padding:20px 20px 25px 50px;
+  padding: 20px 20px 45px 75px;
   border-radius: 50% 20% / 10% 40%;
 }
 .review-image.second-item{
@@ -31,7 +31,7 @@ text-align:right;
   }
 .blockquote.second-item{
   border: solid 1px;
-  padding:20px 20px 75px 50px;
+  padding:20px 20px 85px 50px;
   border-radius: 10% 40%/50% 20% ;
 }
 .contacts{
