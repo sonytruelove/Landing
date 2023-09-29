@@ -1,0 +1,55 @@
+
+.title {
+font-family: Impact, sans-serif;
+color: #CE5937;
+text-align:center;
+}
+.under-title {
+font-family: Impact, sans-serif;
+text-align:right;
+}
+.discription{
+    text-align:justify;
+}
+.main-image{
+  object-fit:cover;
+  min-width:100%;
+  max-width:100%;
+}
+.review-image{
+    float:left;
+    margin:10px 10px 20px 0px;
+  }
+.blockquote{
+  border: solid 1px;
+  padding:20px 20px 25px 50px;
+  border-radius: 50% 20% / 10% 40%;
+}
+.review-image.second-item{
+    float:right;
+    margin:0px 10px 20px 0px;
+  }
+.blockquote.second-item{
+  border: solid 1px;
+  padding:20px 20px 75px 50px;
+  border-radius: 10% 40%/50% 20% ;
+}
+.contacts{
+  border-top:4px solid;
+  border-color:grey;
+  padding-top:40px;
+  text-align:center;
+}
+.contacts.title{
+  padding-top:0px;
+}
+a[href^="tel:"]{
+	font-family: Impact, sans-serif;
+    color:grey;
+	font-size: 16px;
+	font-weight: 900;
+    text-decoration: none;
+}
+a[href^="tel:"]:hover{
+  color: #CE5937;
+}
